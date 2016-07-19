@@ -6,9 +6,9 @@ Using the combination of MIDI interface or MIDI program(ttymidi/aconnect....)
 
 THe following libraries are rewrite in Ruby
 
-- [Adafruit MPR121](https://github.com/openpipelabs/openpipe-breakout)
+- [openpipe-breakout](https://github.com/openpipelabs/openpipe-breakout)
 - [Adafruit BMP085](https://github.com/adafruit/Adafruit_Python_BMP)
-- [openpipe-breakout](https://github.com/adafruit/Adafruit_Python_MPR121)
+- [Adafruit MPR121](https://github.com/adafruit/Adafruit_Python_MPR121)
 
 ## Platforms
 ruby-openpipe is developed on RASPBIAN(Jessi) is installed Raspberry Pi 2B/zero.
