@@ -42,6 +42,8 @@ class MPR121
 
   MAX_I2C_RETRIES = 5
 
+
+  
   def initialize(path)
     @device = I2CDevice.new(address: I2CADDR, drive: I2CDevice::Driver::I2CDev.new(path))
     @address = I2CADDR
